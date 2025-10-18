@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Alex Volynets\\Programming_school_C\\Programming_school_C.csproj",
+      "projectUniqueName": "D:\\Alex Volynets\\Programming_school_C\\Variables\\Programming_school_C.csproj",
       "projectName": "Programming_school_C",
-      "projectPath": "D:\\Alex Volynets\\Programming_school_C\\Programming_school_C.csproj",
+      "projectPath": "D:\\Alex Volynets\\Programming_school_C\\Variables\\Programming_school_C.csproj",
       "packagesPath": "C:\\Users\\Марина\\.nuget\\packages\\",
-      "outputPath": "D:\\Alex Volynets\\Programming_school_C\\obj\\",
+      "outputPath": "D:\\Alex Volynets\\Programming_school_C\\Variables\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Марина\\AppData\\Roaming\\NuGet\\NuGet.Config",

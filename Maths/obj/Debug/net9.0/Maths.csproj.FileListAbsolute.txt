@@ -1,0 +1,15 @@
+D:\Alex Volynets\Programming_school_C\Maths\bin\Debug\net9.0\Maths.exe
+D:\Alex Volynets\Programming_school_C\Maths\bin\Debug\net9.0\Maths.deps.json
+D:\Alex Volynets\Programming_school_C\Maths\bin\Debug\net9.0\Maths.runtimeconfig.json
+D:\Alex Volynets\Programming_school_C\Maths\bin\Debug\net9.0\Maths.dll
+D:\Alex Volynets\Programming_school_C\Maths\bin\Debug\net9.0\Maths.pdb
+D:\Alex Volynets\Programming_school_C\Maths\obj\Debug\net9.0\Maths.GeneratedMSBuildEditorConfig.editorconfig
+D:\Alex Volynets\Programming_school_C\Maths\obj\Debug\net9.0\Maths.AssemblyInfoInputs.cache
+D:\Alex Volynets\Programming_school_C\Maths\obj\Debug\net9.0\Maths.AssemblyInfo.cs
+D:\Alex Volynets\Programming_school_C\Maths\obj\Debug\net9.0\Maths.csproj.CoreCompileInputs.cache
+D:\Alex Volynets\Programming_school_C\Maths\obj\Debug\net9.0\Maths.sourcelink.json
+D:\Alex Volynets\Programming_school_C\Maths\obj\Debug\net9.0\Maths.dll
+D:\Alex Volynets\Programming_school_C\Maths\obj\Debug\net9.0\refint\Maths.dll
+D:\Alex Volynets\Programming_school_C\Maths\obj\Debug\net9.0\Maths.pdb
+D:\Alex Volynets\Programming_school_C\Maths\obj\Debug\net9.0\Maths.genruntimeconfig.cache
+D:\Alex Volynets\Programming_school_C\Maths\obj\Debug\net9.0\ref\Maths.dll

@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v9.0": {
-      "Programming_school_C/1.0.0": {
+      "Maths/1.0.0": {
         "runtime": {
-          "Programming_school_C.dll": {}
+          "Maths.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "Programming_school_C/1.0.0": {
+    "Maths/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
