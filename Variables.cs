@@ -3,7 +3,7 @@
 namespace Project
 {
     
-    class Program
+    class Variables
     {
         static void Main()
         {
