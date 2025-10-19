@@ -1,0 +1,15 @@
+D:\Alex Volynets\Programming_school_C\Arrays\bin\Debug\net9.0\Arrays.exe
+D:\Alex Volynets\Programming_school_C\Arrays\bin\Debug\net9.0\Arrays.deps.json
+D:\Alex Volynets\Programming_school_C\Arrays\bin\Debug\net9.0\Arrays.runtimeconfig.json
+D:\Alex Volynets\Programming_school_C\Arrays\bin\Debug\net9.0\Arrays.dll
+D:\Alex Volynets\Programming_school_C\Arrays\bin\Debug\net9.0\Arrays.pdb
+D:\Alex Volynets\Programming_school_C\Arrays\obj\Debug\net9.0\Arrays.GeneratedMSBuildEditorConfig.editorconfig
+D:\Alex Volynets\Programming_school_C\Arrays\obj\Debug\net9.0\Arrays.AssemblyInfoInputs.cache
+D:\Alex Volynets\Programming_school_C\Arrays\obj\Debug\net9.0\Arrays.AssemblyInfo.cs
+D:\Alex Volynets\Programming_school_C\Arrays\obj\Debug\net9.0\Arrays.csproj.CoreCompileInputs.cache
+D:\Alex Volynets\Programming_school_C\Arrays\obj\Debug\net9.0\Arrays.sourcelink.json
+D:\Alex Volynets\Programming_school_C\Arrays\obj\Debug\net9.0\Arrays.dll
+D:\Alex Volynets\Programming_school_C\Arrays\obj\Debug\net9.0\refint\Arrays.dll
+D:\Alex Volynets\Programming_school_C\Arrays\obj\Debug\net9.0\Arrays.pdb
+D:\Alex Volynets\Programming_school_C\Arrays\obj\Debug\net9.0\Arrays.genruntimeconfig.cache
+D:\Alex Volynets\Programming_school_C\Arrays\obj\Debug\net9.0\ref\Arrays.dll
