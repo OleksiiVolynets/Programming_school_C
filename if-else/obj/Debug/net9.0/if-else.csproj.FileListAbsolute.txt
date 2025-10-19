@@ -1,0 +1,15 @@
+D:\Alex Volynets\Programming_school_C\if-else\bin\Debug\net9.0\if-else.exe
+D:\Alex Volynets\Programming_school_C\if-else\bin\Debug\net9.0\if-else.deps.json
+D:\Alex Volynets\Programming_school_C\if-else\bin\Debug\net9.0\if-else.runtimeconfig.json
+D:\Alex Volynets\Programming_school_C\if-else\bin\Debug\net9.0\if-else.dll
+D:\Alex Volynets\Programming_school_C\if-else\bin\Debug\net9.0\if-else.pdb
+D:\Alex Volynets\Programming_school_C\if-else\obj\Debug\net9.0\if-else.GeneratedMSBuildEditorConfig.editorconfig
+D:\Alex Volynets\Programming_school_C\if-else\obj\Debug\net9.0\if-else.AssemblyInfoInputs.cache
+D:\Alex Volynets\Programming_school_C\if-else\obj\Debug\net9.0\if-else.AssemblyInfo.cs
+D:\Alex Volynets\Programming_school_C\if-else\obj\Debug\net9.0\if-else.csproj.CoreCompileInputs.cache
+D:\Alex Volynets\Programming_school_C\if-else\obj\Debug\net9.0\if-else.sourcelink.json
+D:\Alex Volynets\Programming_school_C\if-else\obj\Debug\net9.0\if-else.dll
+D:\Alex Volynets\Programming_school_C\if-else\obj\Debug\net9.0\refint\if-else.dll
+D:\Alex Volynets\Programming_school_C\if-else\obj\Debug\net9.0\if-else.pdb
+D:\Alex Volynets\Programming_school_C\if-else\obj\Debug\net9.0\if-else.genruntimeconfig.cache
+D:\Alex Volynets\Programming_school_C\if-else\obj\Debug\net9.0\ref\if-else.dll
