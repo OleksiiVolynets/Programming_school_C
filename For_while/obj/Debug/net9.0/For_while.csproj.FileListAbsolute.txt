@@ -1,0 +1,15 @@
+D:\Alex Volynets\Programming_school_C\For_while\bin\Debug\net9.0\For_while.exe
+D:\Alex Volynets\Programming_school_C\For_while\bin\Debug\net9.0\For_while.deps.json
+D:\Alex Volynets\Programming_school_C\For_while\bin\Debug\net9.0\For_while.runtimeconfig.json
+D:\Alex Volynets\Programming_school_C\For_while\bin\Debug\net9.0\For_while.dll
+D:\Alex Volynets\Programming_school_C\For_while\bin\Debug\net9.0\For_while.pdb
+D:\Alex Volynets\Programming_school_C\For_while\obj\Debug\net9.0\For_while.GeneratedMSBuildEditorConfig.editorconfig
+D:\Alex Volynets\Programming_school_C\For_while\obj\Debug\net9.0\For_while.AssemblyInfoInputs.cache
+D:\Alex Volynets\Programming_school_C\For_while\obj\Debug\net9.0\For_while.AssemblyInfo.cs
+D:\Alex Volynets\Programming_school_C\For_while\obj\Debug\net9.0\For_while.csproj.CoreCompileInputs.cache
+D:\Alex Volynets\Programming_school_C\For_while\obj\Debug\net9.0\For_while.sourcelink.json
+D:\Alex Volynets\Programming_school_C\For_while\obj\Debug\net9.0\For_while.dll
+D:\Alex Volynets\Programming_school_C\For_while\obj\Debug\net9.0\refint\For_while.dll
+D:\Alex Volynets\Programming_school_C\For_while\obj\Debug\net9.0\For_while.pdb
+D:\Alex Volynets\Programming_school_C\For_while\obj\Debug\net9.0\For_while.genruntimeconfig.cache
+D:\Alex Volynets\Programming_school_C\For_while\obj\Debug\net9.0\ref\For_while.dll
