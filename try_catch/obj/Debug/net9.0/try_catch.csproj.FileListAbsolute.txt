@@ -1,0 +1,15 @@
+D:\Alex Volynets\Programming_school_C\try_catch\bin\Debug\net9.0\try_catch.exe
+D:\Alex Volynets\Programming_school_C\try_catch\bin\Debug\net9.0\try_catch.deps.json
+D:\Alex Volynets\Programming_school_C\try_catch\bin\Debug\net9.0\try_catch.runtimeconfig.json
+D:\Alex Volynets\Programming_school_C\try_catch\bin\Debug\net9.0\try_catch.dll
+D:\Alex Volynets\Programming_school_C\try_catch\bin\Debug\net9.0\try_catch.pdb
+D:\Alex Volynets\Programming_school_C\try_catch\obj\Debug\net9.0\try_catch.GeneratedMSBuildEditorConfig.editorconfig
+D:\Alex Volynets\Programming_school_C\try_catch\obj\Debug\net9.0\try_catch.AssemblyInfoInputs.cache
+D:\Alex Volynets\Programming_school_C\try_catch\obj\Debug\net9.0\try_catch.AssemblyInfo.cs
+D:\Alex Volynets\Programming_school_C\try_catch\obj\Debug\net9.0\try_catch.csproj.CoreCompileInputs.cache
+D:\Alex Volynets\Programming_school_C\try_catch\obj\Debug\net9.0\try_catch.sourcelink.json
+D:\Alex Volynets\Programming_school_C\try_catch\obj\Debug\net9.0\try_catch.dll
+D:\Alex Volynets\Programming_school_C\try_catch\obj\Debug\net9.0\refint\try_catch.dll
+D:\Alex Volynets\Programming_school_C\try_catch\obj\Debug\net9.0\try_catch.pdb
+D:\Alex Volynets\Programming_school_C\try_catch\obj\Debug\net9.0\try_catch.genruntimeconfig.cache
+D:\Alex Volynets\Programming_school_C\try_catch\obj\Debug\net9.0\ref\try_catch.dll
