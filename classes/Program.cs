@@ -9,15 +9,13 @@ namespace Project
         static void Main()
         {
             //OOП
-            Robot bot = new Robot();
-            bot.setValues("Botty", 150, new byte[] { 0, 0, 0 });
+            Robot bot = new Robot("Botty", 150, new byte[] { 0, 0, 0 });
 
-            bot.printValues();
+            Robot killer = new Robot("Killer", 200, new byte[] { 10, 0, 5 });
+            Robot robot = new Robot("Alex");
 
-            Robot killer = new Robot();
-            killer.setValues("Killer", 200, new byte[] { 10, 0, 5 });
-
-            killer.printValues();
+            //Robot.count = 10;
+            Robot.Print();
         }
     }
 }
