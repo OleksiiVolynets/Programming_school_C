@@ -1,0 +1,15 @@
+D:\Alex Volynets\Programming_school_C\class_method\bin\Debug\net9.0\class_method.exe
+D:\Alex Volynets\Programming_school_C\class_method\bin\Debug\net9.0\class_method.deps.json
+D:\Alex Volynets\Programming_school_C\class_method\bin\Debug\net9.0\class_method.runtimeconfig.json
+D:\Alex Volynets\Programming_school_C\class_method\bin\Debug\net9.0\class_method.dll
+D:\Alex Volynets\Programming_school_C\class_method\bin\Debug\net9.0\class_method.pdb
+D:\Alex Volynets\Programming_school_C\class_method\obj\Debug\net9.0\class_method.GeneratedMSBuildEditorConfig.editorconfig
+D:\Alex Volynets\Programming_school_C\class_method\obj\Debug\net9.0\class_method.AssemblyInfoInputs.cache
+D:\Alex Volynets\Programming_school_C\class_method\obj\Debug\net9.0\class_method.AssemblyInfo.cs
+D:\Alex Volynets\Programming_school_C\class_method\obj\Debug\net9.0\class_method.csproj.CoreCompileInputs.cache
+D:\Alex Volynets\Programming_school_C\class_method\obj\Debug\net9.0\class_method.sourcelink.json
+D:\Alex Volynets\Programming_school_C\class_method\obj\Debug\net9.0\class_method.dll
+D:\Alex Volynets\Programming_school_C\class_method\obj\Debug\net9.0\refint\class_method.dll
+D:\Alex Volynets\Programming_school_C\class_method\obj\Debug\net9.0\class_method.pdb
+D:\Alex Volynets\Programming_school_C\class_method\obj\Debug\net9.0\class_method.genruntimeconfig.cache
+D:\Alex Volynets\Programming_school_C\class_method\obj\Debug\net9.0\ref\class_method.dll

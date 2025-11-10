@@ -9,27 +9,15 @@ namespace Project
     {
         static void Main()
         {
-            // foreach
-            // short[,] nums = { 
-            //     { 1, 2, 3 },
-            //     { 4, 5, 6 }};
-            // foreach (short el in nums)
-            // {
-            //     Console.WriteLine(el);
-            // }
+            //function
+            Print("Some");
+            string words = "Some info";
+            Print(words);
 
-            //Колекції
-            List<int> numbers = new List<int>() { 6, 9, 4, 6, 1 };
-            numbers.Add(19);
-            numbers.Remove(9);
-            numbers.Sort();
-            numbers.Reverse();
-            numbers[0] = 7;
-            foreach(int el in numbers)
-            {
-                Console.WriteLine(el);
-            }
         }
-
+        public static void Print(string word )
+        {
+            Console.WriteLine(word);
+        }
     }
 }
