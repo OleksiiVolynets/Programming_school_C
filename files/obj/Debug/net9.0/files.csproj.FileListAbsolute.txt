@@ -1,0 +1,15 @@
+D:\Alex Volynets\Programming_school_C\files\bin\Debug\net9.0\files.exe
+D:\Alex Volynets\Programming_school_C\files\bin\Debug\net9.0\files.deps.json
+D:\Alex Volynets\Programming_school_C\files\bin\Debug\net9.0\files.runtimeconfig.json
+D:\Alex Volynets\Programming_school_C\files\bin\Debug\net9.0\files.dll
+D:\Alex Volynets\Programming_school_C\files\bin\Debug\net9.0\files.pdb
+D:\Alex Volynets\Programming_school_C\files\obj\Debug\net9.0\files.GeneratedMSBuildEditorConfig.editorconfig
+D:\Alex Volynets\Programming_school_C\files\obj\Debug\net9.0\files.AssemblyInfoInputs.cache
+D:\Alex Volynets\Programming_school_C\files\obj\Debug\net9.0\files.AssemblyInfo.cs
+D:\Alex Volynets\Programming_school_C\files\obj\Debug\net9.0\files.csproj.CoreCompileInputs.cache
+D:\Alex Volynets\Programming_school_C\files\obj\Debug\net9.0\files.sourcelink.json
+D:\Alex Volynets\Programming_school_C\files\obj\Debug\net9.0\files.dll
+D:\Alex Volynets\Programming_school_C\files\obj\Debug\net9.0\refint\files.dll
+D:\Alex Volynets\Programming_school_C\files\obj\Debug\net9.0\files.pdb
+D:\Alex Volynets\Programming_school_C\files\obj\Debug\net9.0\files.genruntimeconfig.cache
+D:\Alex Volynets\Programming_school_C\files\obj\Debug\net9.0\ref\files.dll
