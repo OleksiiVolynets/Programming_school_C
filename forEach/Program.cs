@@ -9,15 +9,27 @@ namespace Project
     {
         static void Main()
         {
-            //function
-            Print("Some");
-            string words = "Some info";
-            Print(words);
+            //for each
+            // short[,] numbers ={ {10, 12, 31} , {44, 56, 78} };
+            // foreach (short number in numbers)
+            // {
+            //     Console.WriteLine(number);
+            List<int> nums=new List<int>{12, 73,23,45,67};
+            nums.Add(99);
+            nums.Add(100);
+            nums.Add(101);
+            nums.Remove(23);
+            nums.Sort();
+            nums.Reverse();
+            foreach(int n in nums)
+            {
+            Console.WriteLine(n);
+            }
 
         }
-        public static void Print(string word )
-        {
-            Console.WriteLine(word);
-        }
-    }
-}
+        //колекції
+        
+
+        
+    }}
+
