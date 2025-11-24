@@ -4,9 +4,15 @@ using System.Runtime.CompilerServices;
 namespace Project;
 class Robot
 {
-    private string name;
-    private short weight;
-    private byte[] coordinates;
+    protected string name;
+    protected short weight;
+    protected byte[] coordinates;
+
+
+    public string Name
+  {
+        get { return name; }
+  }
 
     public short Weight
     {
@@ -42,7 +48,7 @@ class Robot
     {
         count++;
         setValues(_name, _weight, _coordinates);
-        printValues();
+       // printValues();
     }
     public void setValues(string name, short weight,
     byte[] coordinates)
@@ -51,12 +57,12 @@ class Robot
         this.weight = weight;
         this.coordinates = coordinates;
     }
-    public void printValues()
+    public virtual void printValues()
     {
         Console.Write(name + " " + weight + "kg ");
         foreach (byte coord in coordinates)
         {
-            Console.Write(coord + "");
+            Console.Write(coord + " ");
         }
         Console.WriteLine("");
     }
