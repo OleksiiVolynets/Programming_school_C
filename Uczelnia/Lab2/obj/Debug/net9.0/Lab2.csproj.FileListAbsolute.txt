@@ -1,0 +1,15 @@
+D:\Alex Volynets\Programming_school_C\Uczelnia\Lab2\bin\Debug\net9.0\Lab2.exe
+D:\Alex Volynets\Programming_school_C\Uczelnia\Lab2\bin\Debug\net9.0\Lab2.deps.json
+D:\Alex Volynets\Programming_school_C\Uczelnia\Lab2\bin\Debug\net9.0\Lab2.runtimeconfig.json
+D:\Alex Volynets\Programming_school_C\Uczelnia\Lab2\bin\Debug\net9.0\Lab2.dll
+D:\Alex Volynets\Programming_school_C\Uczelnia\Lab2\bin\Debug\net9.0\Lab2.pdb
+D:\Alex Volynets\Programming_school_C\Uczelnia\Lab2\obj\Debug\net9.0\Lab2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Alex Volynets\Programming_school_C\Uczelnia\Lab2\obj\Debug\net9.0\Lab2.AssemblyInfoInputs.cache
+D:\Alex Volynets\Programming_school_C\Uczelnia\Lab2\obj\Debug\net9.0\Lab2.AssemblyInfo.cs
+D:\Alex Volynets\Programming_school_C\Uczelnia\Lab2\obj\Debug\net9.0\Lab2.csproj.CoreCompileInputs.cache
+D:\Alex Volynets\Programming_school_C\Uczelnia\Lab2\obj\Debug\net9.0\Lab2.sourcelink.json
+D:\Alex Volynets\Programming_school_C\Uczelnia\Lab2\obj\Debug\net9.0\Lab2.dll
+D:\Alex Volynets\Programming_school_C\Uczelnia\Lab2\obj\Debug\net9.0\refint\Lab2.dll
+D:\Alex Volynets\Programming_school_C\Uczelnia\Lab2\obj\Debug\net9.0\Lab2.pdb
+D:\Alex Volynets\Programming_school_C\Uczelnia\Lab2\obj\Debug\net9.0\Lab2.genruntimeconfig.cache
+D:\Alex Volynets\Programming_school_C\Uczelnia\Lab2\obj\Debug\net9.0\ref\Lab2.dll

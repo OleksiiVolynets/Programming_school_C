@@ -8,6 +8,24 @@ class Robot
     private short weight;
     private byte[] coordinates;
 
+    public short Weight
+    {
+        get{
+            Console.WriteLine("Get weight called");
+            return this.weight;
+        }
+        set
+        {
+            if(value<10)
+                this.weight=1;
+            else
+                this.weight=value;
+        }
+    }
+    public int Width
+    {
+        get; set;
+    }
 
     public static int count = 0;
     public Robot()
@@ -26,12 +44,12 @@ class Robot
         setValues(_name, _weight, _coordinates);
         printValues();
     }
-    public void setValues(string _name, short _weight,
-    byte[] _coordinates)
+    public void setValues(string name, short weight,
+    byte[] coordinates)
     {
-        name = _name;
-        weight = _weight;
-        coordinates = _coordinates;
+        this.name = name;
+        this.weight = weight;
+        this.coordinates = coordinates;
     }
     public void printValues()
     {
